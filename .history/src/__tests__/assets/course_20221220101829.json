@@ -1,0 +1,579 @@
+{
+  "_id": "61f0d5417b94d10087059294",
+  "createdAt": "2022-01-26T04:59:45.179Z",
+  "updatedAt": "2022-08-18T10:04:40.420Z",
+  "cmsId": 6064,
+  "slug": "rest-sleep",
+  "title": "Rest & Sleep",
+  "subTitle": "Be Relaxed",
+  "shortDescription": "<p><strong>Be Relaxed.</strong> Unravel stress and tension from the body and mind and create your own nourishing rest practice with Jo Buick. Perfect if you're feeling frazzled or having trouble sleeping or unwinding at night. </p>",
+  "description": [
+    {
+      "heading": "Connect with professionals",
+      "detail": "Feeling rested isn’t just about sleep. That’s why we’ve partnered with Jo Buick to zoom out and help you to create a wholistic rest practice.",
+      "image": "https://benefit-fd-staging.azurefd.net/media/lgwmkno4/sleep_desktop.svg?center=0.5,0.5&mode=crop&quality=80",
+      "mobileImage": "https://benefit-fd-staging.azurefd.net/media/gdteypnp/sleep.svg?center=0.5,0.5&mode=crop&quality=80"
+    },
+    {
+      "heading": "Exclusive access to discounts on partner products:",
+      "detail": "Need a little something more to get you over the line? If you finish the Rest and Sleep course you'll unlock exclusive discounts on brand partners such as Therapy Blanket, Inner Atlas and Nimbus Co.",
+      "image": "https://benefit-fd-staging.azurefd.net/media/lgwmkno4/sleep_desktop.svg?center=0.5,0.5&mode=crop&quality=80",
+      "mobileImage": "https://benefit-fd-staging.azurefd.net/media/gdteypnp/sleep.svg?center=0.5,0.5&mode=crop&quality=80"
+    },
+    {
+      "heading": "Upgrade to Expert Access for one on one help:",
+      "detail": "For an extra $59, you can upgrade to Expert Access. This allows to you message with our Rest and Sleep course experts privately for 3 months, gain access to our exclusive webinars and you'll even receive a welcome gift with some items to get you started.",
+      "image": "https://benefit-fd-staging.azurefd.net/media/lgwmkno4/sleep_desktop.svg?center=0.5,0.5&mode=crop&quality=80",
+      "mobileImage": "https://benefit-fd-staging.azurefd.net/media/gdteypnp/sleep.svg?center=0.5,0.5&mode=crop&quality=80"
+    }
+  ],
+  "backgroundColor": "#9daabf",
+  "cardColor": "#677da1",
+  "image": "https://benefit-fd-staging.azurefd.net/media/mbgdakjl/image-315.png?center=0.5,0.5&mode=crop&quality=80",
+  "content": {
+    "events": [
+      {
+        "cmsId": 7653,
+        "name": "Past event 1",
+        "zoomLink": "",
+        "startDate": "2022-05-01T08:00:00Z",
+        "endDate": "2022-04-06T09:00:00Z",
+        "duration": "",
+        "eventThumbnail": "https://benefit-fd-staging.azurefd.net/media/rs2nv51v/benefit-mindfulness-worry-cycle.jpg?center=0.5,0.5&mode=crop&quality=80",
+        "recoredVideoUrl": "",
+        "description": "",
+        "slug": "past-event-1"
+      },
+      {
+        "cmsId": 7654,
+        "name": "Past event 2",
+        "zoomLink": "",
+        "startDate": "2022-05-02T10:00:00Z",
+        "endDate": "2022-05-02T11:00:00Z",
+        "duration": "60 Minutes",
+        "eventThumbnail": "https://benefit-fd-staging.azurefd.net/media/xuuhoeou/14054243_993685317410645_4226152973213137969_n.jpg?center=0.5,0.5&mode=crop&quality=80",
+        "recoredVideoUrl": "https://www.youtube.com/watch?v=gRIiBw7iNUA",
+        "description": "<p>Test</p>",
+        "slug": "past-event-2"
+      },
+      {
+        "cmsId": 7655,
+        "name": "Future event 1",
+        "zoomLink": "https://us06web.zoom.us/meeting/register/tZYpcOmgqj4pEtTvBvNXgYp2OX0gNtoErxc2",
+        "startDate": "2022-06-30T13:00:00Z",
+        "endDate": "2022-06-30T14:00:00Z",
+        "duration": "",
+        "eventThumbnail": "https://benefit-fd-staging.azurefd.net/media/delbf5ak/81dyfofluxl.jpeg?center=0.5,0.5&mode=crop&quality=80",
+        "recoredVideoUrl": "",
+        "description": "",
+        "slug": "future-event-1"
+      },
+      {
+        "cmsId": 7656,
+        "name": "Future event 2",
+        "zoomLink": "https://us06web.zoom.us/meeting/register/tZYpcOmgqj4pEtTvBvNXgYp2OX0gNtoErxc2",
+        "startDate": "2022-07-15T08:00:00Z",
+        "endDate": "2022-07-15T09:00:00Z",
+        "duration": "60 Minutes",
+        "eventThumbnail": "https://benefit-fd-staging.azurefd.net/media/msehkrhh/markus-spiske-i5testfpbjw-unsplash-copy.jpg?center=0.5,0.5&mode=crop&quality=80",
+        "recoredVideoUrl": "",
+        "description": "",
+        "slug": "future-event-2"
+      },
+      {
+        "cmsId": 7657,
+        "name": "Current event",
+        "zoomLink": "https://us06web.zoom.us/meeting/register/tZYpcOmgqj4pEtTvBvNXgYp2OX0gNtoErxc2",
+        "startDate": "2022-06-30T07:30:00Z",
+        "endDate": "2022-06-30T08:30:00Z",
+        "duration": "90 Minutes",
+        "eventThumbnail": "https://benefit-fd-staging.azurefd.net/media/vtrfx0i0/marika-workout-4.jpg?center=0.5,0.5&mode=crop&quality=80",
+        "recoredVideoUrl": "",
+        "description": "",
+        "slug": "current-event"
+      },
+      {
+        "cmsId": 7706,
+        "name": "Future event 3",
+        "zoomLink": "https://us06web.zoom.us/meeting/register/tZYpcOmgqj4pEtTvBvNXgYp2OX0gNtoErxc2",
+        "startDate": "2022-07-31T09:00:00Z",
+        "endDate": "2022-07-31T10:00:00Z",
+        "duration": "",
+        "eventThumbnail": "https://benefit-fd-staging.azurefd.net/media/orpl5fk2/man-father-daughter-gettyimages-1191423212.jpg?center=0.5,0.5&mode=crop&quality=80",
+        "recoredVideoUrl": "",
+        "description": "",
+        "slug": "future-event-3"
+      }
+    ],
+    "sections": [
+      {
+        "cmsId": 6065,
+        "title": "Get Started",
+        "subTitle": "with <strong>Jo Buick</strong>",
+        "description": "Meet Jo and learn how to create a nourishing rest space for yourself.",
+        "videoThumbnail": "https://benefit-fd-staging.azurefd.net/media/wfincubu/video-frame-1.png?center=0.5,0.5&mode=crop&quality=80",
+        "videoUrl": "https://www.youtube.com/watch?v=gRIiBw7iNUA",
+        "videoUpload": "",
+        "rewardOfferCmsIds": [],
+        "modules": [
+          {
+            "cmsId": 6066,
+            "name": "Trailer",
+            "description": "Meet Jo and learn how to create a nourishing rest space for your self.",
+            "videoUrl": "https://youtu.be/EXmfBaR-kuE",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/ryxm41n4/screen-shot-2021-12-15-at-9-14.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": true,
+            "slug": "trailer"
+          },
+          {
+            "cmsId": 6179,
+            "name": "Course workbook",
+            "description": "",
+            "videoUrl": "https://youtu.be/1wBxibFxZEg",
+            "videoUpload": "",
+            "image": "",
+            "estimateTime": 0,
+            "reward": {
+              "heading": "Course workbook",
+              "image": "https://benefit-fd-staging.azurefd.net/media/lthn3nho/print-20220216-kwr65951_websize.jpg?center=0.37,0.53&mode=crop&quality=80",
+              "rewardFile": "https://benefit-fd-staging.azurefd.net/media/sqdbmzjs/b-relaxed_course-guide.pdf"
+            },
+            "type": "document",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": true,
+            "slug": "course-workbook"
+          }
+        ],
+        "downloadFile": ""
+      },
+      {
+        "cmsId": 6181,
+        "title": "Intention setting",
+        "subTitle": "with <strong>Jo Buick</strong>",
+        "description": "Jo outlines the case for learning to slow down, relish and savour experiences. The practice comes to life by learning how to orient and ground yourself in the moment.",
+        "videoThumbnail": "",
+        "videoUrl": "",
+        "videoUpload": "",
+        "rewardOfferCmsIds": [],
+        "modules": [
+          {
+            "cmsId": 6183,
+            "name": "Lesson 1: Intro",
+            "description": "Eleifend tortor, et aliquam lacus. Suspendisse nec urna purus posuere mattis. A lacus, vivamus pulvinar nunc, sed eget habitant. ",
+            "videoUrl": "https://youtu.be/EXmfBaR-kuE",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/ryxm41n4/screen-shot-2021-12-15-at-9-14.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "lesson-1-intro"
+          },
+          {
+            "cmsId": 6184,
+            "name": "Lesson 2: Slowing Down",
+            "description": "Eleifend tortor, et aliquam lacus. Suspendisse nec urna purus posuere mattis. A lacus, vivamus pulvinar nunc, sed eget habitant. ",
+            "videoUrl": "https://youtu.be/Ha4yHC983lo",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/ryxm41n4/screen-shot-2021-12-15-at-9-14.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "audio",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "https://benefit-fd-staging.azurefd.net/media/yitjjjsl/thanhphosuongseesingshare2-haanhtuan-5081257.mp3",
+            "isFree": false,
+            "slug": "lesson-2-slowing-down"
+          },
+          {
+            "cmsId": 6578,
+            "name": "Practice: Slow Down Meditation",
+            "description": "https://youtu.be/EAMCv6DUF6g",
+            "videoUrl": "https://youtu.be/O-D2N6a51r4",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/jeeb5hnu/benefit_fitness_fasting_stocksy-r.jpg?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "practice-slow-down-meditation"
+          }
+        ],
+        "downloadFile": ""
+      },
+      {
+        "cmsId": 6185,
+        "title": "The Science of Rest",
+        "subTitle": "with <strong>Jo Buick</strong>",
+        "description": "Get to know your stress/response cycle and learn to tame it with a practice in stress relief. ",
+        "videoThumbnail": "",
+        "videoUrl": "",
+        "videoUpload": "",
+        "rewardOfferCmsIds": [],
+        "modules": [
+          {
+            "cmsId": 6186,
+            "name": "Lesson 3: Overview",
+            "description": "",
+            "videoUrl": "https://youtu.be/yGZ7tk5f7w8",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/ryxm41n4/screen-shot-2021-12-15-at-9-14.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "lesson-3-overview"
+          },
+          {
+            "cmsId": 6187,
+            "name": "Lesson 4: From stress to rest",
+            "description": "",
+            "videoUrl": "https://youtu.be/Ug9ZM3w-QBk",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/ryxm41n4/screen-shot-2021-12-15-at-9-14.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "lesson-4-from-stress-to-rest"
+          },
+          {
+            "cmsId": 6188,
+            "name": "Practice: Baseline practice",
+            "description": "Eleifend tortor, et aliquam lacus. Suspendisse nec urna purus posuere mattis. A lacus, vivamus pulvinar nunc, sed eget habitant. ",
+            "videoUrl": "https://youtu.be/fcjvaL46SyM",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/ryxm41n4/screen-shot-2021-12-15-at-9-14.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 10,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "practice-baseline-practice"
+          }
+        ],
+        "downloadFile": ""
+      },
+      {
+        "cmsId": 6579,
+        "title": "Summary",
+        "subTitle": "with <strong>Jo Buick</strong>",
+        "description": "",
+        "videoThumbnail": "",
+        "videoUrl": "",
+        "videoUpload": "",
+        "rewardOfferCmsIds": [],
+        "modules": [
+          {
+            "cmsId": 6580,
+            "name": "30 day rest commitment",
+            "description": "",
+            "videoUrl": "https://youtu.be/iQOVObz9ADA",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/jf0o0m4h/sun-surf-man_getty_963908424.jpg?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 0,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "video",
+            "webinarLink": "",
+            "documentFile": "",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "30-day-rest-commitment"
+          }
+        ],
+        "downloadFile": ""
+      },
+      {
+        "cmsId": 6581,
+        "title": "Resources",
+        "subTitle": "with <strong>Jo Buick</strong>",
+        "description": "",
+        "videoThumbnail": "",
+        "videoUrl": "",
+        "videoUpload": "",
+        "rewardOfferCmsIds": [],
+        "modules": [
+          {
+            "cmsId": 6582,
+            "name": "Resources",
+            "description": "",
+            "videoUrl": "",
+            "videoUpload": "",
+            "image": "https://benefit-fd-staging.azurefd.net/media/tsdpc3vq/waking-up-big-cover.png?center=0.5,0.5&mode=crop&quality=80",
+            "estimateTime": 0,
+            "reward": {
+              "heading": "",
+              "image": "",
+              "rewardFile": ""
+            },
+            "type": "document",
+            "webinarLink": "",
+            "documentFile": "https://benefit-fd-staging.azurefd.net/media/cm1bvnta/course-relaxation-pages-digital-version-lr.pdf",
+            "audioFile": "",
+            "isFree": false,
+            "slug": "resources"
+          }
+        ],
+        "downloadFile": ""
+      }
+    ]
+  },
+  "rewardOfferCmsIds": [8089, 6707],
+  "pricing": {
+    "priceType": "One Time",
+    "basicPrice": 169,
+    "priceBackgroundImage": "https://benefit-fd-staging.azurefd.net/media/dlslvzxt/rest-and-sleep-hero.png?center=0.5,0.5&mode=crop&quality=80",
+    "basicPriceStripeId": "price_1KeZ3xEiGXhVx3ZbHjAxvxRt",
+    "expertAccessPrice": 59,
+    "expertAccessPriceStripeId": "price_1KdRoQEiGXhVx3Zb7SviRyMx",
+    "expertAccessSlots": 156,
+    "remainingAccessSlots": 0,
+    "pricingShortDescription": "<p>Curated to help you unwind your mind and get more rest.</p>\n<p>Access lasts 3 months from purchase.</p>",
+    "pricingDescription": "<p>It's time to unravel stress and tension from the body and mind and create your own nourishing rest practice. Our signature course brings together experts to deliver engaging and informative video learning with exclusive discounts from partner brands to reward you for finishing. What's not to love? </p>",
+    "coursePackageDetail": [
+      {
+        "title": "12 on demand lessons",
+        "learnmoreTitle": "",
+        "description": "<p>All of our course content is available on demand in our app or website. You can complete your learning for up to three months after purchasing the course.</p>",
+        "id": null
+      },
+      {
+        "title": "Downloadable course guide",
+        "learnmoreTitle": "",
+        "description": "<p>Want to take it away and think about it? Some of our modules also come with their own materials that you can download and print to think over or complete away from the screen.</p>",
+        "id": null
+      },
+      {
+        "title": "Specials offers throughout the course from Inner Atlas, Therapy Blanket and Nimbus",
+        "learnmoreTitle": "",
+        "description": "<p>Need a little more to get you motivated? Our rest course includes exclusive discounts with amazing partner brands that are unlocked after you complete the course.</p>",
+        "id": null
+      }
+    ],
+    "expertAccessPackageDetail": [
+      {
+        "title": "Message one on one with your course expert, Jo Buick, and her team of rest experts for 3 months.",
+        "learnmoreTitle": "",
+        "description": "<p>Get answers to all those niggling questions about your course by messaging one on one with our course experts and they’ll get back to you within 24 hours, who will help to guide you as you practice your course in everyday life for up to three months from purchase.</p>",
+        "id": null
+      },
+      {
+        "title": "Welcome gift to help you sleep better",
+        "learnmoreTitle": "",
+        "description": "<p>Receive a package full of goodies to help you on your learning journey.</p>",
+        "id": null
+      },
+      {
+        "title": "Welcome gift to help you sleep better",
+        "learnmoreTitle": "",
+        "description": "<p>Receive a package full of goodies to help you on your learning journey.</p>",
+        "id": null
+      }
+    ],
+    "coursePaymentLink": "https://buy.stripe.com/test_8wM01r5lU5jA4HC8wV",
+    "expertAccessPaymentLink": "https://buy.stripe.com/test_dR6aG515E5jA6PK4gE",
+    "fullCoursePaymentLink": "https://buy.stripe.com/test_cN28xX29IbHY5LG3cC"
+  },
+  "introductionVideo": "https://youtu.be/xgfvYVsjDDU",
+  "relatedArticles": [2552, 2906, 2923, 2541, 4441],
+  "dynamicLink": "https://benefitpocketdev.page.link/MPZf",
+  "startDate": "2022-05-01T14:00:00.000Z",
+  "hubspotProgressMileStones": {
+    "quater": "",
+    "half": "",
+    "threeQuarters": ""
+  },
+  "expertId": 7555,
+  "seo": {
+    "metaTitle": "Rest and Sleep. Be relaxed of Bupa",
+    "metaDescription": "Unravel stress and tension from the body and mind and create your own nourishing rest practice..",
+    "robotsNoFollow": false,
+    "metaKeywords": "Rest and sleep ",
+    "canonicalUrl": "https://benefit-fd-staging.azurefd.net/rest-sleep/",
+    "ogImage": "https://benefit-cms-staging.azurewebsites.net/media/4emdvqia/r.jpg"
+  },
+  "expertIds": [7555, 6525],
+  "hiImage": "https://benefit-fd-staging.azurefd.net/media/dkjpa3au/rest.png?center=0.5,0.5&mode=crop&quality=80",
+  "hubspotProductId": "814156279",
+  "hubspotExpertAccessProductId": "814156280",
+  "disableEvents": true,
+  "courseInclude": "<p>9 lessons</p>\n<p>5 restful practices</p>\n<p>Downloadable course guide</p>\n<p>Special offers from Inner Atlas, Therapy Blanket and Nimbus</p>",
+  "downloadFile": "https://benefit-fd-staging.azurefd.net/media/4bgnevze/rest-and-sleep-handout.zip",
+  "quote": {
+    "title": "Jo’s voice is a dream",
+    "quote": "“Jo’s voice is a dream and her presence alone is relaxing. The course book and workbook is easy to read and follow along. This course is a gift to yourself. Best investment I have made this year in me.”",
+    "author": "Tremaine"
+  },
+  "sampleVideo": {
+    "thumbnail": "https://benefit-fd-staging.azurefd.net/media/epjnflxs/print-20220216-kwr66013_websize.jpg?center=0.5,0.5&mode=crop&quality=80",
+    "videoUrl": "https://youtu.be/EXmfBaR-kuE",
+    "estimateTime": 2
+  },
+  "subMenu": {
+    "overview": "",
+    "lessons": "Rest and Sleep Lessons",
+    "bonus": "",
+    "expertChat": "Expert Access"
+  },
+  "trailerVideo": {
+    "thumbnail": "https://benefit-fd-staging.azurefd.net/media/j2glahed/group-2723.png?center=0.5,0.5&mode=crop&quality=80",
+    "videoUrl": "https://youtu.be/xgfvYVsjDDU",
+    "estimateTime": 2
+  },
+  "aboutCourse": "<p>We all know the value of a good night's sleep, but rest expert Jo Buick teaches us that the power of simply slowing down should not be overlooked. In this six part course, Jo teaches you a radical theory of rest, how to set an intention to slow down your life and arms you with practices to embed rest into your routine.</p>\n<p><strong>You’ll learn:</strong></p>\n<ul>\n<li>How to unravel stress and cultivate more rest</li>\n<li>Practices to help relax your busy mind and body</li>\n<li>To work with your sleep cycle and hormones to help get your sleep back on track </li>\n</ul>",
+  "expert": {
+    "id": 8443,
+    "name": "Jo Buick",
+    "bio": "Somantic and mindfulness teacher",
+    "profile_picture": "https://benefit-fd-staging.azurefd.net/media/0pqb3gle/image.png?center=0.5,0.5&mode=crop&quality=80",
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    }
+  },
+  "postPurchaseImage": "https://benefit-fd-staging.azurefd.net/media/dlslvzxt/rest-and-sleep-hero.png?center=0.5,0.5&mode=crop&quality=80",
+  "expertMember": [
+    {
+      "_id": "62904427aa7e27007d5ce1c1",
+      "auth0Id": "auth0|62904420756426006d13675a",
+      "name": "zenmate yopmail.com",
+      "gender": "Female",
+      "cometChatToken": "7555_1653896199b827a2e375ac8ba7262be2276c4dbc",
+      "cometChatUserId": "7555"
+    }
+  ],
+  "rewardsDto": [
+    {
+      "image": "https://benefit-fd-staging.azurefd.net/media/cgadgycb/lifestyle_endotaspa1.png?center=0.5,0.5&mode=crop&quality=80",
+      "title": "Save 10% online on the Rest & Restore Range at Endota Spa",
+      "url": "/offers/6707/save-10-online-on-the-rest-restore-range-at-endota-spa",
+      "offerCmsId": 6707,
+      "brandLogo": "https://benefit-fd-staging.azurefd.net/media/v3hl2f0d/endota_logo_green.png?center=0.5,0.5&mode=crop&quality=80",
+      "loyaltyNowId": "",
+      "backgroundColor": "#361072",
+      "lightImage": true,
+      "textColor": "white",
+      "slug": "save-10-online-on-the-rest-restore-range-at-endota-spa",
+      "text": "<p>Our lives are becoming increasingly hectic. We are sleeping less, working more and retiring later.</p>\n<p>From uplifting essential oil roll-ons to soothing muscle baths and balms, endota are proud to bring you a range of products made with natural ingredients, carefully created to encourage you to completely relax and refresh.</p>\n<p>To claim this offer, you must first unlock the reward via the Rest and Sleep signature course. Then spend online at endota Spa and enter the code provided by Benefit Pocket at checkout. Offer is only valid for purchases on full-priced products included in the Restore and Restore Range. Not cash redeemable. The offer will not be valid forever.  The discount does not apply to shipping / postage and cannot be used with other endota Spa offers.</p>",
+      "detail": "",
+      "canShowLock": true,
+      "canShowCourse": false,
+      "isElevated": false
+    },
+    {
+      "image": "https://benefit-fd-staging.azurefd.net/media/xawpztat/image-for-cms.png?center=0.5,0.5&mode=crop&quality=80",
+      "title": "Save 30% off your first annual subscription with Nimbus Wellness when you purchase online",
+      "url": "/offers/8089/save-30-off-your-first-annual-subscription-with-nimbus-wellness-when-you-purchase-online",
+      "offerCmsId": 8089,
+      "brandLogo": "https://benefit-fd-staging.azurefd.net/media/sqypw3uu/nw-orange-logo-2.png?center=0.5,0.5&mode=crop&quality=80",
+      "loyaltyNowId": "",
+      "backgroundColor": "#361072",
+      "lightImage": false,
+      "textColor": "white",
+      "slug": "save-30-off-your-first-annual-subscription-with-nimbus-wellness-when-you-purchase-online",
+      "text": "<p>Nimbus Wellness ~ where your health journey begins.</p>\n<p>A digital space dedicated to sculpting a healthier you. We offer a collection of thoughtfully designed topics that educates, enlightens and offers you a sensory experience in your health and wellness journey. Supported by health experts from all around the world.</p>\n<p>Its varying content pillars encourages deeper learning from topics you know, and those you might not yet know in order to make health advice more accessible. No matter where you are or what your health story is, we want to be the first step for you to embark on this journey to a better life.</p>\n<p>To claim this offer, you must first unlock the reward via the Rest and Sleep signature course. Then purchase an annual subscription online with Nimbus Wellness and enter the code provided by Benefit Pocket at checkout. Offer valid until 15<sup>th</sup> July 2022. Not cash redeemable. The offer is only available to customers who are signing up to a Nimbus Wellness subscription for the first time. Please note that the free trial period is not applicable to this purchase, and that the discount will only be applied for the first 12 months of your subscription. Nimbus Wellness Terms and Conditions apply [<a href=\"https://www.nimbusonline.com.au/sign-up\">https://www.nimbusonline.com.au/sign-up]</a>, and you will be required to complete all membership documentation before you can access the membership. Benefit Pocket does not endorse any health advice provided by Nimbus Wellness. The offer cannot be used with any other offers.</p>",
+      "detail": "",
+      "canShowLock": true,
+      "canShowCourse": false,
+      "isElevated": false
+    }
+  ],
+  "relatedArticlesDto": [
+    {
+      "image": "https://benefit-fd-staging.azurefd.net/media/gyqlako0/danny-howe-qohs2drluec-unsplash-copy.jpg?center=0.5,0.5&width=1284&height=755&mode=crop&quality=80",
+      "slug": "south-pacific-gym-exercise-and-your-senses",
+      "summary": "There is a myriad of nifty benefits that exercise provides our cognitive functions. Read more about memory and spatial cognition and the effects of balance training in your workout.",
+      "title": "Exercise and Your Senses: Cognition and Cognitive Function",
+      "url": "/articles/2923/south-pacific-gym-exercise-and-your-senses",
+      "cmsId": 2923
+    },
+    {
+      "image": "https://benefit-fd-staging.azurefd.net/media/npgadcbi/logan-weaver-u76gd0hp5w4-unsplash-jpg-copy.jpg?center=0.5,0.5&width=1284&height=755&mode=crop&quality=80",
+      "slug": "love-athletica-don-t-let-your-workout-be-a-pain-in-the-neck",
+      "summary": "Is your workout becoming a pain in the Neck?  Neck pain and tension is one of the most common niggles that people suffer from and it's on the rise. ",
+      "title": "Don't Let Your Workout be a Pain in the Neck",
+      "url": "/articles/2906/love-athletica-don-t-let-your-workout-be-a-pain-in-the-neck",
+      "cmsId": 2906
+    },
+    {
+      "image": "",
+      "slug": "mindfulness-meditation",
+      "summary": "This is a 9-minute mindfulness meditation, led by Sam Harris.\n\nhttps://www.youtube.com/watch?v=tw7XBKhZJh4\n\n\nyoutu.be/O-D2N6a51r4\n",
+      "title": "Mindfulness Meditation led by Sam Harris in 9 minutes",
+      "url": "/articles/2552/mindfulness-meditation",
+      "cmsId": 2552
+    },
+    {
+      "image": "https://benefit-fd-staging.azurefd.net/media/delbf5ak/81dyfofluxl.jpeg?center=0.5,0.5&width=1284&height=755&mode=crop&quality=80",
+      "slug": "7-best-times-to-drink-water",
+      "summary": "Boost your mood, support your weight, and sharpen your focus by knowing when and how much to hydrate.",
+      "title": "The 7 Best Times to Drink Water",
+      "url": "/articles/2541/7-best-times-to-drink-water",
+      "cmsId": 2541
+    },
+    {
+      "image": "https://benefit-fd-staging.azurefd.net/media/hubfbhxr/man-eating-salad-gettyimages-1285602588-r.jpg?center=0.5,0.5&width=1284&height=755&mode=crop&quality=80",
+      "slug": "eat-better-sleep-better-try-these-diet-hacks",
+      "summary": "You are what you eat… well, no, but you are going to be tired if your diet is off. Let’s look at four dietary changes that can improve sleep.",
+      "title": "Eat better, sleep better – try these diet hacks",
+      "url": "/articles/4441/eat-better-sleep-better-try-these-diet-hacks",
+      "cmsId": 4441
+    }
+  ]
+}
